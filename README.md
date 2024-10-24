@@ -1,5 +1,7 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Evelina</h1>
+<h3 align="left">I am studying to become a .NET system developer!</h3>
 
+- 🌱 I’m currently learning **Javascript and HTML**
 <!--
 **kirosabe/kirosabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
